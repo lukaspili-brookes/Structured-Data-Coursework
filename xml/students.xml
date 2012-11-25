@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <number>100001</number>
+        <course>CM85</course>
+        <year>2009</year>
+        <module code="P00011">61</module>
+    </student>
+    <student>
+        <number>100002</number>
+        <course>CM85</course>
+        <year>2011</year>
+        <module code="P00011">61</module>
+        <module code="P00076">51</module>
+    </student>
+    
+    <student>
+        <number>100005</number>
+        <course>CM51</course>
+        <year>2009</year>
+        <module code="P00011" type="mark">86</module>
+        <module code="P03100" type="mark">55</module>
+        <module code="P03101" type="mark">74</module>
+        <module code="P03102" type="mark">62</module>
+        <module code="P03103" type="mark">83</module>
+        <module code="P03199" type="mark">94</module>
+        <module code="P10101" type="mark">87</module>
+        <module code="P10104" type="other">fail</module>
+    </student>
+    <student>
+        <number>100010</number>
+        <course>CM51</course>
+        <year>2009</year>
+        <module code="P00011" type="mark">89</module>
+        <module code="P03100" type="mark">59</module>
+        <module code="P03101" type="mark">79</module>
+        <module code="P03102" type="mark">69</module>
+        <module code="P03103" type="mark">89</module>
+        <module code="P03199" type="mark">99</module>
+        <module code="P10101" type="mark">89</module>
+        <module code="P10104" type="other">resit</module>
+    </student>
+    <student>
+        <number>100006</number>
+        <course>CM51</course>
+        <year>2012</year>
+        <module code="P00011" type="mark">86</module>
+        <module code="P03100" type="mark">55</module>
+        <module code="P03101" type="mark">74</module>
+        <module code="P03102" type="mark">62</module>
+        <module code="P03103" type="mark">83</module>
+        <module code="P03199" type="mark">94</module>
+        <module code="P10101" type="mark">87</module>
+        <module code="P10104" type="other">fail</module>
+    </student>
+    <student>
+        <number>100007</number>
+        <course>CM51</course>
+        <year>2010</year>
+        <module code="P00011" type="mark">86</module>
+        <module code="P03100" type="mark">55</module>
+        <module code="P03101" type="mark">74</module>
+        <module code="P03102" type="mark">62</module>
+        <module code="P03103" type="mark">83</module>
+        <module code="P03199" type="mark">94</module>
+        <module code="P10101" type="mark">87</module>
+        <module code="P10104" type="other">fail</module>
+    </student>
+</students>

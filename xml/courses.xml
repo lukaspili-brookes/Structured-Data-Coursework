@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<courses>
+    <course>
+        <code>CM51</code>
+        <module code="P00011">c</module>
+        <module code="P00601">a</module>
+        <module code="P03100">c</module>
+        <module code="P03101">c</module>
+        <module code="P03102">c</module>
+        <module code="P03103">c</module>
+        <module code="P03199">c</module>
+        <module code="P10101">a</module>
+        <module code="P10104">a</module>
+    </course>
+    <course>
+        <code>CM85</code>
+        <module code="P00011">c</module>
+    </course>
+</courses>
