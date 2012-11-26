@@ -13,6 +13,18 @@
         <year>2011</year>
         <module code="P00011">61</module>
         <module code="P00076">51</module>
+        <module code="P10104" type="other">fail</module>
+    </student>
+    
+    <student>
+        <number>100003</number>
+        <course>CM85</course>
+        <year>2011</year>
+        <module code="P00011">61</module>
+        <module code="P00076">51</module>
+        <module code="P99999" type="other">fail</module>
+        <module code="P982374" type="other">fail</module>
+        <module code="P982375" type="other">fail</module>
     </student>
     
     <student>
