@@ -49,6 +49,11 @@
         <code>P99999</code>
         <name>Topics in biotechnology</name>
         <reqModule>P982374</reqModule>
+    </module>
+    
+    <module>
+        <code>P99998</code>
+        <name>Topics in biotechnology</name>
         <reqModule>P982375</reqModule>
     </module>
 </modules>
