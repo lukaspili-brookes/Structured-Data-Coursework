@@ -5,14 +5,14 @@
         <number>100001</number>
         <course>CM85</course>
         <year>2009</year>
-        <module code="P00011">61</module>
+        <module code="P00011" type="mark">61</module>
     </student>
     <student>
         <number>100002</number>
         <course>CM85</course>
         <year>2011</year>
-        <module code="P00011">61</module>
-        <module code="P00076">51</module>
+        <module code="P00011" type="mark">61</module>
+        <module code="P00076" type="mark">51</module>
         <module code="P10104" type="other">fail</module>
     </student>
     
@@ -21,7 +21,7 @@
         <course>CM85</course>
         <year>2011</year>
         
-        <module code="P99999" type="other">fail</module>
+        <module code="P99999" type="mark">28</module>
         <module code="P982374" type="mark">40</module>
         
         

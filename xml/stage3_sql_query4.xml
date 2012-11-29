@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<table>
+    
+    <row>
+        <student_number>100001</student_number>
+        <postcode>OX12 2BH</postcode>
+    </row>
+    
+    <row>
+        <student_number>100003</student_number>
+        <postcode>OX12 2BH</postcode>
+    </row>
+    
+    <row>
+        <student_number>100002</student_number>
+        <postcode>OX12 2BH</postcode>
+    </row>
+    
+    <row>
+        <student_number>100004</student_number>
+        <postcode>LA4 2AG</postcode>
+    </row>
+    
+    <row>
+        <student_number>100005</student_number>
+        <postcode>LA4 3AI</postcode>
+    </row>
+    
+    <row>
+        <student_number>100006</student_number>
+        <postcode>LA4 3AI</postcode>
+    </row>
+    
+</table>

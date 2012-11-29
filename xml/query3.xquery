@@ -120,8 +120,6 @@ declare function lp:list-students-invalid-prequisites() {
             </student>
 };
 
-
-
 <query>
     <invalid-students type="Invalid modules in student courses">
     {lp:list-students-invalid-modules()}
@@ -131,22 +129,3 @@ declare function lp:list-students-invalid-prequisites() {
     {lp:list-students-invalid-prequisites()}
     </invalid-students>
 </query>
-
-
-(: 
-
-distinct-values($student_modules[not(.=$course_modules)])
-
-- student with module not in the course
-    - list student modules and compare with course modules
-
-- student with module witout prereq
-    - list stuednt modules
-    - for each module check on modules.xml if there is a prereq
-    - check if prereq is in the set
-
-- student with prereq modules with mark < 30
-
-
-
-:)

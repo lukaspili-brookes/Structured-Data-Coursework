@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<table>
+    
+    <row>
+        <year>2009</year>
+        <student_number>100001</student_number>
+    </row>
+    
+    <row>
+        <year>2010</year>
+        <student_number>100002</student_number>
+    </row>
+    
+    <row>
+        <year>2008</year>
+        <student_number>100003</student_number>
+    </row>
+    
+    <row>
+        <year>2008</year>
+        <student_number>100004</student_number>
+    </row>
+    
+    <row>
+        <year>2009</year>
+        <student_number>100005</student_number>
+    </row>
+    
+    <row>
+        <year>2009</year>
+        <student_number>100006</student_number>
+    </row>
+    
+</table>
