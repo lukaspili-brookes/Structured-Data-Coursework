@@ -1,5 +1,4 @@
 xquery version "1.0";
-
 declare namespace lp="http://www.brookes.ac.uk/lukasz/piliszczuk/xquery";
 
 declare variable $lp:courses-xml as xs:string := "courses.xml";

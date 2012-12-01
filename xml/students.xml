@@ -1,82 +1,1246 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <students>
-    <student>
-        <number>100001</number>
-        <course>CM85</course>
-        <year>2009</year>
-        <module code="P00011" type="mark">61</module>
-    </student>
-    <student>
-        <number>100002</number>
-        <course>CM85</course>
-        <year>2011</year>
-        <module code="P00011" type="mark">61</module>
-        <module code="P00076" type="mark">51</module>
-        <module code="P10104" type="other">fail</module>
-    </student>
-    
-    <student>
-        <number>100003</number>
-        <course>CM85</course>
-        <year>2011</year>
-        
-        <module code="P99999" type="mark">28</module>
-        <module code="P982374" type="mark">40</module>
-        
-        
-    </student>
-    
-    <student>
-        <number>100005</number>
-        <course>CM51</course>
-        <year>2009</year>
-        <module code="P00011" type="mark">86</module>
-        <module code="P03100" type="mark">55</module>
-        <module code="P03101" type="mark">74</module>
-        <module code="P03102" type="mark">62</module>
-        <module code="P03103" type="mark">83</module>
-        <module code="P03199" type="mark">94</module>
-        <module code="P10101" type="mark">87</module>
-        <module code="P10104" type="other">fail</module>
-    </student>
-    <student>
-        <number>100010</number>
-        <course>CM51</course>
-        <year>2009</year>
-        <module code="P00011" type="mark">89</module>
-        <module code="P03100" type="mark">59</module>
-        <module code="P03101" type="mark">79</module>
-        <module code="P03102" type="mark">69</module>
-        <module code="P03103" type="mark">89</module>
-        <module code="P03199" type="mark">99</module>
-        <module code="P10101" type="mark">89</module>
-        <module code="P10104" type="other">resit</module>
-    </student>
-    <student>
-        <number>100006</number>
-        <course>CM51</course>
-        <year>2012</year>
-        <module code="P00011" type="mark">86</module>
-        <module code="P03100" type="mark">55</module>
-        <module code="P03101" type="mark">74</module>
-        <module code="P03102" type="mark">62</module>
-        <module code="P03103" type="mark">83</module>
-        <module code="P03199" type="mark">94</module>
-        <module code="P10101" type="mark">87</module>
-        <module code="P10104" type="other">fail</module>
-    </student>
-    <student>
-        <number>100007</number>
-        <course>CM51</course>
-        <year>2010</year>
-        <module code="P00011" type="mark">86</module>
-        <module code="P03100" type="mark">55</module>
-        <module code="P03101" type="mark">74</module>
-        <module code="P03102" type="mark">62</module>
-        <module code="P03103" type="mark">83</module>
-        <module code="P03199" type="mark">94</module>
-        <module code="P10101" type="mark">87</module>
-        <module code="P10104" type="other">fail</module>
-    </student>
+	<student>
+		<number>100001</number>
+		<course>CM85</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">61</module>
+		<module code="P00400" type="mark">64</module>
+		<module code="P00401" type="mark">92</module>
+		<module code="P00403" type="mark">57</module>
+		<module code="P00999" type="mark">79</module>
+		<module code="P00488" type="mark">59</module>
+		<module code="P00500" type="mark">90</module>
+	</student>
+	<student>
+		<number>100002</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">58</module>
+		<module code="P00100" type="mark">74</module>
+		<module code="P00191" type="mark">57</module>
+		<module code="P00601" type="mark">68</module>
+		<module code="P00500" type="mark">74</module>
+	</student>
+	<student>
+		<number>100003</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">95</module>
+		<module code="P00400" type="mark">63</module>
+		<module code="P00401" type="mark">94</module>
+		<module code="P00403" type="mark">61</module>
+		<module code="P00999" type="mark">81</module>
+		<module code="P00755" type="mark">78</module>
+		<module code="P00402" type="mark">66</module>
+	</student>
+	<student>
+		<number>100004</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">55</module>
+		<module code="P00100" type="mark">75</module>
+		<module code="P00191" type="mark">78</module>
+		<module code="P00403" type="mark">92</module>
+		<module code="P00601" type="mark">52</module>
+		<module code="P00999" type="mark">55</module>
+		<module code="P00402" type="mark">81</module>
+		<module code="P00500" type="mark">50</module>
+	</student>
+	<student>
+		<number>100005</number>
+		<course>CM51</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">86</module>
+		<module code="P03100" type="mark">55</module>
+		<module code="P03101" type="mark">74</module>
+		<module code="P03102" type="mark">62</module>
+		<module code="P03103" type="mark">83</module>
+		<module code="P03199" type="mark">94</module>
+		<module code="P10101" type="mark">87</module>
+		<module code="P10104" type="mark">86</module>
+	</student>
+	<student>
+		<number>100006</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">95</module>
+		<module code="P00100" type="mark">96</module>
+		<module code="P00191" type="mark">68</module>
+		<module code="P00601" type="mark">94</module>
+		<module code="P00402" type="mark">88</module>
+	</student>
+	<student>
+		<number>100007</number>
+		<course>CM51</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">66</module>
+		<module code="P03100" type="mark">59</module>
+		<module code="P03101" type="mark">99</module>
+		<module code="P03102" type="mark">58</module>
+		<module code="P03103" type="mark">85</module>
+		<module code="P03199" type="mark">75</module>
+		<module code="P10104" type="mark">96</module>
+		<module code="P00601" type="mark">85</module>
+	</student>
+	<student>
+		<number>100008</number>
+		<course>CM51</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">55</module>
+		<module code="P03100" type="mark">60</module>
+		<module code="P03101" type="mark">77</module>
+		<module code="P03102" type="mark">85</module>
+		<module code="P03103" type="mark">53</module>
+		<module code="P03199" type="mark">75</module>
+		<module code="P00601" type="mark">59</module>
+		<module code="P10101" type="mark">63</module>
+	</student>
+	<student>
+		<number>100009</number>
+		<course>CM51</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">81</module>
+		<module code="P03100" type="mark">72</module>
+		<module code="P03101" type="mark">51</module>
+		<module code="P10101" type="mark">73</module>
+	</student>
+	<student>
+		<number>100010</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">53</module>
+		<module code="P00100" type="mark">51</module>
+		<module code="P00191" type="mark">58</module>
+		<module code="P00403" type="mark">69</module>
+		<module code="P00601" type="mark">84</module>
+		<module code="P00999" type="mark">76</module>
+		<module code="P00402" type="mark">34</module>
+		<module code="P00500" type="mark">63</module>
+	</student>
+	<student>
+		<number>100011</number>
+		<course>CM51</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">73</module>
+		<module code="P03100" type="mark">63</module>
+		<module code="P03101" type="mark">72</module>
+		<module code="P03102" type="mark">96</module>
+		<module code="P03103" type="mark">54</module>
+		<module code="P03199" type="mark">22</module>
+		<module code="P10101" type="mark">97</module>
+		<module code="P10104" type="mark">92</module>
+	</student>
+	<student>
+		<number>100012</number>
+		<course>CM85</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">56</module>
+		<module code="P00400" type="mark">50</module>
+		<module code="P00401" type="mark">61</module>
+		<module code="P00500" type="mark">93</module>
+	</student>
+	<student>
+		<number>100013</number>
+		<course>CM51</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">71</module>
+		<module code="P03100" type="mark">88</module>
+		<module code="P03101" type="mark">93</module>
+		<module code="P03102" type="mark">18</module>
+		<module code="P03103" type="mark">97</module>
+		<module code="P03199" type="mark">89</module>
+		<module code="P10104" type="other">fail</module>
+		<module code="P00601" type="mark">97</module>
+	</student>
+	<student>
+		<number>100014</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">79</module>
+		<module code="P00100" type="mark">79</module>
+		<module code="P00191" type="mark">15</module>
+		<module code="P00403" type="mark">71</module>
+		<module code="P00601" type="mark">95</module>
+		<module code="P00999" type="other">medical resit</module>
+		<module code="P00500" type="mark">91</module>
+		<module code="P00700" type="mark">86</module>
+	</student>
+	<student>
+		<number>100015</number>
+		<course>CM85</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">74</module>
+		<module code="P00400" type="mark">10</module>
+		<module code="P00401" type="mark">55</module>
+		<module code="P00755" type="mark">52</module>
+	</student>
+	<student>
+		<number>100016</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">21</module>
+		<module code="P00400" type="mark">66</module>
+		<module code="P00401" type="mark">55</module>
+		<module code="P00403" type="other">resit</module>
+		<module code="P00999" type="mark">81</module>
+		<module code="P00488" type="mark">80</module>
+		<module code="P00500" type="mark">88</module>
+	</student>
+	<student>
+		<number>100017</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">74</module>
+		<module code="P00100" type="mark">99</module>
+		<module code="P00191" type="other">fail</module>
+		<module code="P00403" type="mark">82</module>
+		<module code="P00601" type="mark">87</module>
+		<module code="P00999" type="mark">97</module>
+		<module code="P00700" type="mark">75</module>
+		<module code="P00775" type="mark">61</module>
+	</student>
+	<student>
+		<number>100018</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">64</module>
+		<module code="P00100" type="other">fail</module>
+		<module code="P00191" type="mark">50</module>
+		<module code="P00601" type="mark">64</module>
+		<module code="P00700" type="mark">95</module>
+	</student>
+	<student>
+		<number>100019</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="other">resit</module>
+		<module code="P00100" type="mark">70</module>
+		<module code="P00191" type="mark">93</module>
+		<module code="P00403" type="mark">97</module>
+		<module code="P00601" type="mark">99</module>
+		<module code="P00999" type="mark">57</module>
+		<module code="P00500" type="mark">77</module>
+		<module code="P00700" type="mark">61</module>
+	</student>
+	<student>
+		<number>100020</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">88</module>
+		<module code="P00100" type="mark">72</module>
+		<module code="P00191" type="mark">86</module>
+		<module code="P00403" type="mark">59</module>
+		<module code="P00601" type="mark">73</module>
+		<module code="P00999" type="mark">96</module>
+		<module code="P00402" type="mark">92</module>
+		<module code="P00500" type="mark">97</module>
+	</student>
+	<student>
+		<number>100021</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">69</module>
+		<module code="P00100" type="mark">67</module>
+		<module code="P00191" type="mark">60</module>
+		<module code="P00601" type="mark">66</module>
+		<module code="P00700" type="mark">66</module>
+	</student>
+	<student>
+		<number>100022</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">78</module>
+		<module code="P00400" type="mark">71</module>
+		<module code="P00401" type="mark">93</module>
+		<module code="P00403" type="mark">82</module>
+		<module code="P00999" type="mark">75</module>
+		<module code="P00602" type="mark">94</module>
+		<module code="P00700" type="mark">91</module>
+	</student>
+	<student>
+		<number>100023</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">81</module>
+		<module code="P00100" type="mark">73</module>
+		<module code="P00191" type="mark">71</module>
+		<module code="P00403" type="mark">50</module>
+		<module code="P00999" type="mark">80</module>
+		<module code="P00775" type="mark">96</module>
+		<module code="P00402" type="mark">67</module>
+	</student>
+	<student>
+		<number>100024</number>
+		<course>CM85</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">62</module>
+		<module code="P00400" type="mark">70</module>
+		<module code="P00401" type="mark">62</module>
+		<module code="P00402" type="mark">98</module>
+	</student>
+	<student>
+		<number>100025</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">73</module>
+		<module code="P00100" type="mark">84</module>
+		<module code="P00191" type="mark">90</module>
+		<module code="P00403" type="mark">92</module>
+		<module code="P00601" type="mark">63</module>
+		<module code="P00999" type="mark">80</module>
+		<module code="P00402" type="mark">85</module>
+		<module code="P00500" type="mark">56</module>
+	</student>
+	<student>
+		<number>100026</number>
+		<course>CM85</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">87</module>
+		<module code="P00400" type="mark">68</module>
+		<module code="P00401" type="mark">57</module>
+		<module code="P00403" type="mark">82</module>
+		<module code="P00999" type="mark">81</module>
+		<module code="P00602" type="mark">78</module>
+		<module code="P00700" type="mark">60</module>
+	</student>
+	<student>
+		<number>100027</number>
+		<course>CM85</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">97</module>
+		<module code="P00400" type="mark">95</module>
+		<module code="P00401" type="mark">71</module>
+		<module code="P00402" type="mark">82</module>
+	</student>
+	<student>
+		<number>100028</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">97</module>
+		<module code="P00400" type="mark">87</module>
+		<module code="P00401" type="mark">88</module>
+		<module code="P00403" type="mark">52</module>
+		<module code="P00999" type="mark">98</module>
+		<module code="P00700" type="mark">66</module>
+		<module code="P00755" type="mark">86</module>
+	</student>
+	<student>
+		<number>100029</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">80</module>
+		<module code="P00100" type="mark">78</module>
+		<module code="P00191" type="mark">77</module>
+		<module code="P00403" type="mark">85</module>
+		<module code="P00601" type="mark">62</module>
+		<module code="P00999" type="mark">74</module>
+		<module code="P00402" type="mark">62</module>
+		<module code="P00500" type="mark">35</module>
+	</student>
+	<student>
+		<number>100030</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">72</module>
+		<module code="P00100" type="mark">82</module>
+		<module code="P00191" type="mark">56</module>
+		<module code="P00601" type="mark">52</module>
+		<module code="P00500" type="mark">95</module>
+	</student>
+	<student>
+		<number>100031</number>
+		<course>CM51</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">92</module>
+		<module code="P03100" type="mark">62</module>
+		<module code="P03101" type="mark">79</module>
+		<module code="P03102" type="mark">89</module>
+		<module code="P03103" type="mark">55</module>
+		<module code="P03199" type="mark">22</module>
+		<module code="P00601" type="mark">51</module>
+		<module code="P10101" type="mark">73</module>
+	</student>
+	<student>
+		<number>100032</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">66</module>
+		<module code="P00100" type="mark">98</module>
+		<module code="P00191" type="mark">74</module>
+		<module code="P00403" type="mark">69</module>
+		<module code="P00601" type="mark">11</module>
+		<module code="P00999" type="mark">93</module>
+		<module code="P00700" type="mark">67</module>
+		<module code="P00400" type="mark">88</module>
+	</student>
+	<student>
+		<number>100033</number>
+		<course>CM85</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">88</module>
+		<module code="P00400" type="mark">69</module>
+		<module code="P00401" type="mark">65</module>
+		<module code="P00755" type="mark">33</module>
+	</student>
+	<student>
+		<number>100034</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">95</module>
+		<module code="P00100" type="mark">66</module>
+		<module code="P00191" type="mark">28</module>
+		<module code="P00403" type="mark">77</module>
+		<module code="P00601" type="mark">51</module>
+		<module code="P00999" type="mark">85</module>
+		<module code="P00775" type="mark">75</module>
+		<module code="P00402" type="mark">67</module>
+	</student>
+	<student>
+		<number>100035</number>
+		<course>CM85</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">81</module>
+		<module code="P00400" type="mark">11</module>
+		<module code="P00401" type="mark">97</module>
+		<module code="P00403" type="mark">53</module>
+		<module code="P00999" type="mark">91</module>
+		<module code="P00700" type="mark">60</module>
+		<module code="P00755" type="mark">68</module>
+	</student>
+	<student>
+		<number>100036</number>
+		<course>CM51</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">0</module>
+		<module code="P03100" type="mark">82</module>
+		<module code="P03101" type="mark">60</module>
+		<module code="P10104" type="mark">70</module>
+	</student>
+	<student>
+		<number>100037</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">68</module>
+		<module code="P00400" type="mark">63</module>
+		<module code="P00401" type="mark">84</module>
+		<module code="P00403" type="mark">67</module>
+		<module code="P00999" type="mark">64</module>
+		<module code="P00755" type="other">medical resit</module>
+		<module code="P00402" type="mark">90</module>
+	</student>
+	<student>
+		<number>100038</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">92</module>
+		<module code="P00100" type="mark">90</module>
+		<module code="P00191" type="mark">56</module>
+		<module code="P00403" type="mark">93</module>
+		<module code="P00601" type="other">resit</module>
+		<module code="P00999" type="mark">51</module>
+		<module code="P00500" type="mark">79</module>
+		<module code="P00700" type="mark">64</module>
+	</student>
+	<student>
+		<number>100039</number>
+		<course>CM51</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">77</module>
+		<module code="P03100" type="mark">51</module>
+		<module code="P03101" type="mark">64</module>
+		<module code="P10104" type="other">medical resit</module>
+	</student>
+	<student>
+		<number>100040</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">73</module>
+		<module code="P00100" type="mark">55</module>
+		<module code="P00191" type="other">medical resit</module>
+		<module code="P00403" type="mark">63</module>
+		<module code="P00601" type="mark">58</module>
+		<module code="P00999" type="mark">51</module>
+		<module code="P00775" type="mark">63</module>
+		<module code="P00402" type="mark">93</module>
+	</student>
+	<student>
+		<number>100041</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">83</module>
+		<module code="P00100" type="other">fail</module>
+		<module code="P00191" type="mark">61</module>
+		<module code="P00403" type="mark">62</module>
+		<module code="P00601" type="mark">85</module>
+		<module code="P00999" type="mark">52</module>
+		<module code="P00500" type="mark">51</module>
+		<module code="P00700" type="mark">76</module>
+	</student>
+	<student>
+		<number>100042</number>
+		<course>CM51</course>
+		<year>2010</year>
+		<module code="P00011" type="other">fail</module>
+		<module code="P03100" type="mark">57</module>
+		<module code="P03101" type="mark">51</module>
+		<module code="P00601" type="mark">68</module>
+	</student>
+	<student>
+		<number>100043</number>
+		<course>CM51</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">56</module>
+		<module code="P03100" type="mark">95</module>
+		<module code="P03101" type="mark">65</module>
+		<module code="P03102" type="mark">80</module>
+		<module code="P03103" type="mark">63</module>
+		<module code="P03199" type="mark">59</module>
+		<module code="P10104" type="mark">75</module>
+		<module code="P00601" type="mark">54</module>
+	</student>
+	<student>
+		<number>100044</number>
+		<course>CM85</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">82</module>
+		<module code="P00400" type="mark">83</module>
+		<module code="P00401" type="mark">68</module>
+		<module code="P00403" type="mark">93</module>
+		<module code="P00999" type="mark">61</module>
+		<module code="P00402" type="mark">92</module>
+		<module code="P00488" type="mark">54</module>
+	</student>
+	<student>
+		<number>100045</number>
+		<course>CM85</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">51</module>
+		<module code="P00400" type="mark">55</module>
+		<module code="P00401" type="mark">97</module>
+		<module code="P00700" type="mark">58</module>
+	</student>
+	<student>
+		<number>100046</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">76</module>
+		<module code="P00400" type="mark">77</module>
+		<module code="P00401" type="mark">60</module>
+		<module code="P00403" type="mark">70</module>
+		<module code="P00999" type="mark">91</module>
+		<module code="P00602" type="mark">60</module>
+		<module code="P00700" type="mark">74</module>
+	</student>
+	<student>
+		<number>100047</number>
+		<course>CM85</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">58</module>
+		<module code="P00400" type="mark">76</module>
+		<module code="P00401" type="mark">90</module>
+		<module code="P00403" type="mark">92</module>
+		<module code="P00999" type="mark">82</module>
+		<module code="P00755" type="mark">74</module>
+		<module code="P00402" type="mark">65</module>
+	</student>
+	<student>
+		<number>100048</number>
+		<course>CM51</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">71</module>
+		<module code="P03100" type="mark">64</module>
+		<module code="P03101" type="mark">88</module>
+		<module code="P10104" type="mark">90</module>
+	</student>
+	<student>
+		<number>100049</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">70</module>
+		<module code="P00100" type="mark">84</module>
+		<module code="P00191" type="mark">62</module>
+		<module code="P00403" type="mark">63</module>
+		<module code="P00601" type="mark">78</module>
+		<module code="P00999" type="mark">78</module>
+		<module code="P00402" type="mark">52</module>
+		<module code="P00500" type="mark">7</module>
+	</student>
+	<student>
+		<number>100050</number>
+		<course>CM85</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">68</module>
+		<module code="P00400" type="mark">82</module>
+		<module code="P00401" type="mark">91</module>
+		<module code="P00403" type="mark">92</module>
+		<module code="P00999" type="mark">56</module>
+		<module code="P00488" type="mark">99</module>
+		<module code="P00500" type="mark">32</module>
+	</student>
+	<student>
+		<number>100051</number>
+		<course>CM51</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">71</module>
+		<module code="P03100" type="mark">83</module>
+		<module code="P03101" type="mark">96</module>
+		<module code="P10101" type="mark">82</module>
+	</student>
+	<student>
+		<number>100052</number>
+		<course>CM51</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">85</module>
+		<module code="P03100" type="mark">87</module>
+		<module code="P03101" type="mark">63</module>
+		<module code="P03102" type="mark">59</module>
+		<module code="P03103" type="mark">17</module>
+		<module code="P03199" type="mark">68</module>
+		<module code="P10104" type="mark">87</module>
+		<module code="P00601" type="mark">94</module>
+	</student>
+	<student>
+		<number>100053</number>
+		<course>CM85</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">90</module>
+		<module code="P00400" type="mark">55</module>
+		<module code="P00401" type="mark">85</module>
+		<module code="P00403" type="mark">49</module>
+		<module code="P00999" type="mark">59</module>
+		<module code="P00402" type="mark">85</module>
+		<module code="P00488" type="mark">89</module>
+	</student>
+	<student>
+		<number>100054</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">71</module>
+		<module code="P00100" type="mark">54</module>
+		<module code="P00191" type="mark">23</module>
+		<module code="P00601" type="mark">66</module>
+		<module code="P00700" type="mark">77</module>
+	</student>
+	<student>
+		<number>100055</number>
+		<course>CM51</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">70</module>
+		<module code="P03100" type="mark">25</module>
+		<module code="P03101" type="mark">77</module>
+		<module code="P03102" type="mark">82</module>
+		<module code="P03103" type="mark">80</module>
+		<module code="P03199" type="mark">88</module>
+		<module code="P00601" type="mark">65</module>
+		<module code="P10101" type="mark">93</module>
+	</student>
+	<student>
+		<number>100056</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">3</module>
+		<module code="P00100" type="mark">74</module>
+		<module code="P00191" type="mark">66</module>
+		<module code="P00403" type="mark">76</module>
+		<module code="P00601" type="mark">50</module>
+		<module code="P00999" type="mark">59</module>
+		<module code="P00500" type="mark">85</module>
+		<module code="P00700" type="mark">75</module>
+	</student>
+	<student>
+		<number>100057</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">68</module>
+		<module code="P00100" type="mark">50</module>
+		<module code="P00191" type="mark">75</module>
+		<module code="P00403" type="mark">90</module>
+		<module code="P00601" type="mark">62</module>
+		<module code="P00999" type="mark">77</module>
+		<module code="P00700" type="mark">66</module>
+		<module code="P00775" type="mark">56</module>
+	</student>
+	<student>
+		<number>100058</number>
+		<course>CM85</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">77</module>
+		<module code="P00400" type="mark">62</module>
+		<module code="P00401" type="mark">74</module>
+		<module code="P00500" type="mark">88</module>
+	</student>
+	<student>
+		<number>100059</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">66</module>
+		<module code="P00100" type="mark">95</module>
+		<module code="P00191" type="mark">97</module>
+		<module code="P00403" type="mark">54</module>
+		<module code="P00601" type="mark">73</module>
+		<module code="P00999" type="mark">56</module>
+		<module code="P00402" type="other">fail</module>
+		<module code="P00500" type="mark">90</module>
+	</student>
+	<student>
+		<number>100060</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">96</module>
+		<module code="P00100" type="mark">96</module>
+		<module code="P00191" type="mark">78</module>
+		<module code="P00403" type="mark">50</module>
+		<module code="P00601" type="mark">84</module>
+		<module code="P00999" type="other">resit</module>
+		<module code="P00500" type="mark">63</module>
+		<module code="P00700" type="mark">99</module>
+	</student>
+	<student>
+		<number>100061</number>
+		<course>CM51</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">86</module>
+		<module code="P03100" type="mark">99</module>
+		<module code="P03101" type="mark">59</module>
+		<module code="P00601" type="mark">77</module>
+	</student>
+	<student>
+		<number>100062</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">96</module>
+		<module code="P00100" type="mark">83</module>
+		<module code="P00191" type="mark">78</module>
+		<module code="P00403" type="other">resit</module>
+		<module code="P00601" type="mark">73</module>
+		<module code="P00999" type="mark">59</module>
+		<module code="P00402" type="mark">59</module>
+		<module code="P00500" type="mark">68</module>
+	</student>
+	<student>
+		<number>100063</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">53</module>
+		<module code="P00100" type="mark">93</module>
+		<module code="P00191" type="other">medical resit</module>
+		<module code="P00403" type="mark">69</module>
+		<module code="P00601" type="mark">92</module>
+		<module code="P00999" type="mark">59</module>
+		<module code="P00402" type="mark">87</module>
+		<module code="P00500" type="mark">58</module>
+	</student>
+	<student>
+		<number>100064</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">83</module>
+		<module code="P00100" type="other">medical resit</module>
+		<module code="P00191" type="mark">94</module>
+		<module code="P00601" type="mark">74</module>
+		<module code="P00500" type="mark">63</module>
+	</student>
+	<student>
+		<number>100065</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="other">resit</module>
+		<module code="P00100" type="mark">71</module>
+		<module code="P00191" type="mark">74</module>
+		<module code="P00403" type="mark">99</module>
+		<module code="P00601" type="mark">65</module>
+		<module code="P00999" type="mark">91</module>
+		<module code="P00700" type="mark">92</module>
+		<module code="P00775" type="mark">51</module>
+	</student>
+	<student>
+		<number>100066</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">86</module>
+		<module code="P00100" type="mark">62</module>
+		<module code="P00191" type="mark">80</module>
+		<module code="P00403" type="mark">81</module>
+		<module code="P00601" type="mark">57</module>
+		<module code="P00999" type="mark">98</module>
+		<module code="P00700" type="mark">60</module>
+		<module code="P00775" type="mark">87</module>
+	</student>
+	<student>
+		<number>100067</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">54</module>
+		<module code="P00100" type="mark">60</module>
+		<module code="P00191" type="mark">88</module>
+		<module code="P00601" type="mark">50</module>
+		<module code="P00700" type="mark">74</module>
+	</student>
+	<student>
+		<number>100068</number>
+		<course>CM51</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">62</module>
+		<module code="P03100" type="mark">78</module>
+		<module code="P03101" type="mark">74</module>
+		<module code="P03102" type="mark">71</module>
+		<module code="P03103" type="mark">76</module>
+		<module code="P03199" type="mark">50</module>
+		<module code="P00601" type="mark">56</module>
+		<module code="P10101" type="mark">53</module>
+	</student>
+	<student>
+		<number>100069</number>
+		<course>CM51</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">93</module>
+		<module code="P03100" type="mark">90</module>
+		<module code="P03101" type="mark">86</module>
+		<module code="P03102" type="mark">65</module>
+		<module code="P03103" type="mark">66</module>
+		<module code="P03199" type="mark">50</module>
+		<module code="P10101" type="mark">81</module>
+		<module code="P00400" type="mark">45</module>
+	</student>
+	<student>
+		<number>100070</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">95</module>
+		<module code="P00100" type="mark">81</module>
+		<module code="P00191" type="mark">81</module>
+		<module code="P00601" type="mark">91</module>
+		<module code="P00500" type="mark">68</module>
+	</student>
+	<student>
+		<number>100071</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">65</module>
+		<module code="P00100" type="mark">98</module>
+		<module code="P00191" type="mark">76</module>
+		<module code="P00403" type="mark">95</module>
+		<module code="P00601" type="mark">68</module>
+		<module code="P00999" type="mark">27</module>
+		<module code="P00500" type="mark">86</module>
+		<module code="P00700" type="mark">55</module>
+	</student>
+	<student>
+		<number>100072</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">58</module>
+		<module code="P00100" type="mark">51</module>
+		<module code="P00191" type="mark">66</module>
+		<module code="P00403" type="mark">86</module>
+		<module code="P00601" type="mark">29</module>
+		<module code="P00999" type="mark">89</module>
+		<module code="P00775" type="mark">76</module>
+		<module code="P00402" type="mark">84</module>
+	</student>
+	<student>
+		<number>100073</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">68</module>
+		<module code="P00100" type="mark">80</module>
+		<module code="P00191" type="mark">74</module>
+		<module code="P00601" type="mark">48</module>
+		<module code="P00402" type="mark">62</module>
+	</student>
+	<student>
+		<number>100074</number>
+		<course>CM51</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">90</module>
+		<module code="P03100" type="mark">62</module>
+		<module code="P03101" type="mark">37</module>
+		<module code="P03102" type="mark">86</module>
+		<module code="P03103" type="mark">52</module>
+		<module code="P03199" type="mark">93</module>
+		<module code="P10101" type="mark">85</module>
+		<module code="P10104" type="mark">87</module>
+	</student>
+	<student>
+		<number>100075</number>
+		<course>CM85</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">74</module>
+		<module code="P00400" type="mark">36</module>
+		<module code="P00401" type="mark">67</module>
+		<module code="P00403" type="mark">99</module>
+		<module code="P00999" type="mark">57</module>
+		<module code="P00755" type="mark">55</module>
+		<module code="P00402" type="mark">65</module>
+	</student>
+	<student>
+		<number>100076</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">3</module>
+		<module code="P00100" type="mark">57</module>
+		<module code="P00191" type="mark">68</module>
+		<module code="P00601" type="mark">56</module>
+		<module code="P00775" type="mark">56</module>
+	</student>
+	<student>
+		<number>100077</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">81</module>
+		<module code="P00400" type="mark">93</module>
+		<module code="P00401" type="mark">72</module>
+		<module code="P00403" type="mark">96</module>
+		<module code="P00999" type="mark">68</module>
+		<module code="P00402" type="mark">95</module>
+		<module code="P00488" type="mark">95</module>
+	</student>
+	<student>
+		<number>100078</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">52</module>
+		<module code="P00100" type="mark">56</module>
+		<module code="P00191" type="mark">99</module>
+		<module code="P00403" type="mark">90</module>
+		<module code="P00601" type="mark">76</module>
+		<module code="P00999" type="mark">91</module>
+		<module code="P00402" type="mark">57</module>
+		<module code="P00500" type="mark">58</module>
+	</student>
+	<student>
+		<number>100079</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">90</module>
+		<module code="P00100" type="mark">86</module>
+		<module code="P00191" type="mark">81</module>
+		<module code="P00601" type="mark">62</module>
+		<module code="P00402" type="mark">93</module>
+	</student>
+	<student>
+		<number>100080</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">84</module>
+		<module code="P00400" type="mark">53</module>
+		<module code="P00401" type="mark">68</module>
+		<module code="P00403" type="mark">67</module>
+		<module code="P00999" type="mark">94</module>
+		<module code="P00755" type="mark">89</module>
+		<module code="P00402" type="mark">57</module>
+	</student>
+	<student>
+		<number>100081</number>
+		<course>CM85</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">85</module>
+		<module code="P00400" type="mark">72</module>
+		<module code="P00401" type="mark">77</module>
+		<module code="P00403" type="mark">85</module>
+		<module code="P00999" type="mark">87</module>
+		<module code="P00500" type="mark">54</module>
+		<module code="P00602" type="mark">91</module>
+	</student>
+	<student>
+		<number>100082</number>
+		<course>CM85</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">71</module>
+		<module code="P00400" type="mark">60</module>
+		<module code="P00401" type="mark">86</module>
+		<module code="P00700" type="mark">71</module>
+	</student>
+	<student>
+		<number>100083</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">90</module>
+		<module code="P00400" type="mark">70</module>
+		<module code="P00401" type="mark">94</module>
+		<module code="P00403" type="mark">93</module>
+		<module code="P00999" type="mark">55</module>
+		<module code="P00755" type="other">fail</module>
+		<module code="P00402" type="mark">58</module>
+	</student>
+	<student>
+		<number>100084</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">96</module>
+		<module code="P00100" type="mark">83</module>
+		<module code="P00191" type="mark">85</module>
+		<module code="P00403" type="mark">79</module>
+		<module code="P00601" type="other">medical resit</module>
+		<module code="P00999" type="mark">52</module>
+		<module code="P00500" type="mark">76</module>
+		<module code="P00700" type="mark">63</module>
+	</student>
+	<student>
+		<number>100085</number>
+		<course>CM51</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">81</module>
+		<module code="P03100" type="mark">80</module>
+		<module code="P00191" type="mark">87</module>
+		<module code="P10104" type="other">fail</module>
+	</student>
+	<student>
+		<number>100086</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">58</module>
+		<module code="P00100" type="mark">62</module>
+		<module code="P00191" type="other">resit</module>
+		<module code="P00403" type="mark">89</module>
+		<module code="P00601" type="mark">95</module>
+		<module code="P00999" type="mark">52</module>
+		<module code="P00775" type="mark">83</module>
+		<module code="P00402" type="mark">77</module>
+	</student>
+	<student>
+		<number>100087</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">99</module>
+		<module code="P00100" type="other">fail</module>
+		<module code="P00191" type="mark">65</module>
+		<module code="P00403" type="mark">60</module>
+		<module code="P00601" type="mark">56</module>
+		<module code="P00999" type="mark">58</module>
+		<module code="P00775" type="mark">64</module>
+		<module code="P00402" type="mark">64</module>
+	</student>
+	<student>
+		<number>100088</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="other">medical resit</module>
+		<module code="P00100" type="mark">81</module>
+		<module code="P00191" type="mark">72</module>
+		<module code="P00601" type="mark">80</module>
+		<module code="P00775" type="mark">88</module>
+	</student>
+	<student>
+		<number>100089</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">78</module>
+		<module code="P00100" type="mark">64</module>
+		<module code="P00191" type="mark">95</module>
+		<module code="P00403" type="mark">57</module>
+		<module code="P00601" type="mark">51</module>
+		<module code="P00999" type="mark">86</module>
+		<module code="P00700" type="mark">89</module>
+		<module code="P00775" type="mark">8</module>
+	</student>
+	<student>
+		<number>100090</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">75</module>
+		<module code="P00100" type="mark">69</module>
+		<module code="P00191" type="mark">59</module>
+		<module code="P00403" type="mark">67</module>
+		<module code="P00601" type="mark">52</module>
+		<module code="P00999" type="mark">74</module>
+		<module code="P00700" type="mark">2</module>
+		<module code="P00775" type="mark">88</module>
+	</student>
+	<student>
+		<number>100091</number>
+		<course>CM85</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">75</module>
+		<module code="P00400" type="mark">80</module>
+		<module code="P00401" type="mark">72</module>
+		<module code="P00488" type="mark">93</module>
+	</student>
+	<student>
+		<number>100092</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">53</module>
+		<module code="P00400" type="mark">90</module>
+		<module code="P00401" type="mark">62</module>
+		<module code="P00403" type="mark">52</module>
+		<module code="P00999" type="mark">23</module>
+		<module code="P00500" type="mark">67</module>
+		<module code="P00602" type="mark">61</module>
+	</student>
+	<student>
+		<number>100093</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">66</module>
+		<module code="P00100" type="mark">63</module>
+		<module code="P00191" type="mark">72</module>
+		<module code="P00403" type="mark">18</module>
+		<module code="P00601" type="mark">51</module>
+		<module code="P00999" type="mark">87</module>
+		<module code="P00775" type="mark">66</module>
+		<module code="P00402" type="mark">81</module>
+	</student>
+	<student>
+		<number>100094</number>
+		<course>CM51</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">83</module>
+		<module code="P03100" type="mark">60</module>
+		<module code="P03101" type="mark">23</module>
+		<module code="P00601" type="mark">55</module>
+	</student>
+	<student>
+		<number>100095</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">85</module>
+		<module code="P00400" type="mark">23</module>
+		<module code="P00401" type="mark">66</module>
+		<module code="P00403" type="mark">75</module>
+		<module code="P00999" type="mark">88</module>
+		<module code="P00755" type="mark">58</module>
+		<module code="P00402" type="mark">98</module>
+	</student>
+	<student>
+		<number>100096</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">44</module>
+		<module code="P00100" type="mark">96</module>
+		<module code="P00191" type="mark">80</module>
+		<module code="P00403" type="mark">58</module>
+		<module code="P00601" type="mark">58</module>
+		<module code="P00999" type="mark">54</module>
+		<module code="P00700" type="mark">70</module>
+		<module code="P00775" type="mark">81</module>
+	</student>
+	<student>
+		<number>100097</number>
+		<course>CM85</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">87</module>
+		<module code="P00400" type="mark">96</module>
+		<module code="P00401" type="mark">61</module>
+		<module code="P00500" type="mark">75</module>
+	</student>
+	<student>
+		<number>100098</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">80</module>
+		<module code="P00400" type="mark">61</module>
+		<module code="P00401" type="mark">83</module>
+		<module code="P00403" type="mark">64</module>
+		<module code="P00999" type="mark">52</module>
+		<module code="P00488" type="mark">80</module>
+		<module code="P00500" type="mark">95</module>
+	</student>
+	<student>
+		<number>100099</number>
+		<course>CM85</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">90</module>
+		<module code="P00400" type="mark">98</module>
+		<module code="P00401" type="mark">50</module>
+		<module code="P00403" type="mark">86</module>
+		<module code="P00999" type="mark">76</module>
+		<module code="P00402" type="mark">85</module>
+		<module code="P00488" type="mark">60</module>
+	</student>
+	<student>
+		<number>100100</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">80</module>
+		<module code="P00100" type="mark">90</module>
+		<module code="P00191" type="mark">57</module>
+		<module code="P00601" type="mark">59</module>
+		<module code="P00402" type="mark">84</module>
+	</student>
+	<student>
+		<number>100101</number>
+		<course>CM79</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">86</module>
+		<module code="P00100" type="mark">74</module>
+		<module code="P00191" type="mark">50</module>
+		<module code="P00403" type="mark">81</module>
+		<module code="P00601" type="mark">53</module>
+		<module code="P00999" type="mark">96</module>
+		<module code="P00500" type="mark">50</module>
+		<module code="P00700" type="mark">90</module>
+	</student>
+	<student>
+		<number>100102</number>
+		<course>CM51</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">53</module>
+		<module code="P03100" type="mark">55</module>
+		<module code="P03101" type="mark">78</module>
+		<module code="P03102" type="mark">96</module>
+		<module code="P03103" type="mark">57</module>
+		<module code="P03199" type="mark">74</module>
+		<module code="P00601" type="mark">88</module>
+		<module code="P10101" type="mark">60</module>
+	</student>
+	<student>
+		<number>100103</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">79</module>
+		<module code="P00100" type="mark">81</module>
+		<module code="P00191" type="mark">68</module>
+		<module code="P00601" type="mark">84</module>
+		<module code="P00402" type="mark">65</module>
+	</student>
+	<student>
+		<number>100104</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">99</module>
+		<module code="P00400" type="mark">60</module>
+		<module code="P00401" type="mark">83</module>
+		<module code="P00403" type="mark">88</module>
+		<module code="P00999" type="mark">74</module>
+		<module code="P00500" type="mark">98</module>
+		<module code="P00602" type="mark">65</module>
+	</student>
+	<student>
+		<number>100105</number>
+		<course>CM79</course>
+		<year>2009</year>
+		<module code="P00011" type="mark">90</module>
+		<module code="P00100" type="mark">79</module>
+		<module code="P00191" type="mark">87</module>
+		<module code="P00403" type="mark">86</module>
+		<module code="P00601" type="mark">80</module>
+		<module code="P00999" type="mark">77</module>
+		<module code="P00700" type="other">medical resit</module>
+		<module code="P00775" type="mark">65</module>
+	</student>
+	<student>
+		<number>100106</number>
+		<course>CM79</course>
+		<year>2010</year>
+		<module code="P00011" type="mark">73</module>
+		<module code="P00100" type="mark">78</module>
+		<module code="P00191" type="mark">99</module>
+		<module code="P00601" type="mark">80</module>
+		<module code="P00700" type="mark">68</module>
+	</student>
+	<student>
+		<number>100107</number>
+		<course>CM85</course>
+		<year>2008</year>
+		<module code="P00011" type="mark">64</module>
+		<module code="P00400" type="mark">75</module>
+		<module code="P00401" type="mark">51</module>
+		<module code="P00403" type="mark">82</module>
+		<module code="P00999" type="other">fail</module>
+		<module code="P00700" type="mark">77</module>
+		<module code="P00755" type="mark">91</module>
+	</student>
 </students>

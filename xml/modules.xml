@@ -5,55 +5,110 @@
         <code>P00011</code>
         <name>Research and study methods</name>
     </module>
+    
+    <module>
+        <code>P00100</code>
+        <name>Object-oriented programming</name>
+    </module>
+
+    <module>
+        <code>P00191</code>
+        <name>Computer systems and networks</name>
+    </module>
+    
     <module>
         <code>P00400</code>
         <name>Paradigms of programming</name>
     </module>
+    
+    <module>
+        <code>P00401</code>
+        <name>Paradigms of programming</name>
+    </module>
+    
+    <module>
+        <code>P00402</code>
+        <name>Programming mobile devices</name>
+    </module>
+    
+    <module>
+        <code>P00403</code>
+        <name>Software project management</name>
+    </module>
+    
+    <module>
+        <code>P00488</code>
+        <name>Language specification and compiler construction</name>
+    </module>
+    
+    <module>
+        <code>P00500</code>
+        <name>Computer and network security</name>
+    </module>
+    
     <module>
         <code>P00601</code>
         <name>Structured data</name>
     </module>
+    
+    <module>
+        <code>P00602</code>
+        <name>Pervasive applications</name>
+        <reqModule>P00601</reqModule>
+    </module>
+    
+    <module>
+        <code>P00700</code>
+        <name>Web interfaces and media</name>
+        <reqModule>P00601</reqModule>
+    </module>
+    
+    <module>
+        <code>P00775</code>
+        <name>Semantic web</name>
+        <reqModule>P00601</reqModule>
+    </module>
+    
+    <module>
+        <code>P00999</code>
+        <name>MSc dissertation</name>
+    </module>
+    
     <module>
         <code>P03100</code>
         <name>Statistical methods in medical research and epidemiology</name>
     </module>
+    
     <module>
         <code>P03101</code>
         <name>Clinical trials, systematic review and meta-analysis</name>
     </module>
+    
     <module>
         <code>P03102</code>
         <name>Survival and duration data analysis</name>
         <reqModule>P03100</reqModule>
     </module>
+    
     <module>
         <code>P03103</code>
         <name>Statistical modelling using SAS</name>
         <reqModule>P03100</reqModule>
     </module>
+    
     <module>
         <code>P03199</code>
         <name>MSc dissertation</name>
     </module>
+    
     <module>
         <code>P10101</code>
         <name>Molecular biology</name>
     </module>
+    
     <module>
         <code>P10104</code>
         <name>Topics in biotechnology</name>
         <reqModule>P10101</reqModule>
-    </module>
-    
-    <module>
-        <code>P99999</code>
-        <name>Topics in biotechnology</name>
-        <reqModule>P982374</reqModule>
-    </module>
-    
-    <module>
-        <code>P99998</code>
-        <name>Topics in biotechnology</name>
-        <reqModule>P982375</reqModule>
     </module>
 </modules>

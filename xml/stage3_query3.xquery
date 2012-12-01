@@ -1,5 +1,4 @@
 xquery version "1.0";
-
 declare namespace lp="http://www.brookes.ac.uk/lukasz/piliszczuk/xquery";
 
 declare variable $lp:courses-xml as xs:string := "courses.xml";
@@ -15,16 +14,21 @@ declare function lp:list-failure-by-postcode-district() {
         let $students := doc($lp:students-xml)/students/student
         let $rows := doc($lp:fromsql-xml)/table/row
         
-        (: for each student, in each course :)
+        (: group by the distinct values of the postcodes :)
         for $postcode in distinct-values($rows/postcode_district)
         let $postcode_students := $rows[postcode_district = $postcode]
         order by $postcode
         return
             <postcode value="{data($postcode)}">
                 {
+                (: and get the associated students by the student number :)
                 for $postcode_student in $postcode_students,
                     $student in $students
                 where
+                    (: for the failure in a course check :
+                        - if a module's mark is below 30
+                        - or if a module's type is other (which is considered as a failure)
+                    :)
                     $student/number = $postcode_student/student_number and
                     (count($student/module[@type = 'other']) > 0 or 
                         min($student/module[@type = 'mark']) < 30)

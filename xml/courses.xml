@@ -14,7 +14,30 @@
         <module code="P10104">a</module>
     </course>
     <course>
+        <code>CM79</code>
+        <module code="P00011">c</module>
+        <module code="P00100">c</module>
+        <module code="P00191">c</module>
+        <module code="P00402">a</module>
+        <module code="P00403">c</module>
+        <module code="P00500">a</module>
+        <module code="P00601">c</module>
+        <module code="P00700">a</module>
+        <module code="P00775">a</module>
+        <module code="P00999">c</module>
+    </course>
+    <course>
         <code>CM85</code>
         <module code="P00011">c</module>
+        <module code="P00400">c</module>
+        <module code="P00401">c</module>
+        <module code="P00402">a</module>
+        <module code="P00403">c</module>
+        <module code="P00488">a</module>
+        <module code="P00500">a</module>
+        <module code="P00602">a</module>
+        <module code="P00700">a</module>
+        <module code="P00775">a</module>
+        <module code="P00999">c</module>
     </course>
 </courses>
